@@ -1,10 +1,9 @@
-# Deep Learning for Symbolic Mathematics
+# Deep Learning for Solving Mathematical Equations (Integration and Differential Equation)
 
-[![Python Package using Conda on Linux](https://github.com/elia-mercatanti/deep-learning-symbolic-mathematics/actions/workflows/conda-linux.yml/badge.svg)](https://github.com/elia-mercatanti/deep-learning-symbolic-mathematics/actions/workflows/conda-linux.yml)
+[![Python Package using Conda on Linux](https://github.com/adesod2022/Project_repo/actions/workflows/conda-linux.yml/badge.svg)](https://github.com/adesod2022/Project_repo/actions/workflows/conda-linux.yml)
 
-Original
-Paper: [Deep Learning for Symbolic Mathematics](https://github.com/elia-mercatanti/deep-learning-symbolic-mathematics/blob/master/paper/deep-learning-symbolic-mathematics-paper.pdf) (
-ICLR 2020).
+Project Github
+Paper: [Deep Learning for Solving Integration and Differential Equations](https://github.com/adesod2022/Project_repo)
 
 Original GitHub
 Project: [Deep Learning for Symbolic Mathematics](https://github.com/facebookresearch/SymbolicMathematics).
@@ -35,11 +34,11 @@ We also provide:
 - **Trained models**:
     - Models trained with different configurations of training data.
 - **Notebook**:
-  - An **[ipython notebook](https://github.com/elia-mercatanti/deep-learning-symbolic-mathematics/blob/master/jupyter-notebook/beam_integration.ipynb)**
+  - An **[ipython notebook](https://github.com/adesod2022/Project_repo/blob/master/jupyter-notebook/beam_integration.ipynb)**
   with an interactive demo of the model on function integration.
-  - An **[ipython notebook](https://github.com/elia-mercatanti/deep-learning-symbolic-mathematics/blob/master/jupyter-notebooks/differential_equations.ipynb)**
+  - An **[ipython notebook](https://github.com/adesod2022/Project_repo/blob/master/jupyter-notebooks/differential_equations.ipynb)**
   with an interactive demo of the model on differential equations.
-  - An **[ipython notebook](https://github.com/elia-mercatanti/deep-learning-symbolic-mathematics/blob/master/jupyter-notebooks/model_application_examples.ipynb)**
+  - An **[ipython notebook](https://github.com/adesod2022/Project_repo/blob/master/jupyter-notebooks/model_application_examples.ipynb)**
   with an interactive demo of the model on various real problem examples.
 
 ## Dependencies
