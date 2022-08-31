@@ -1,0 +1,30 @@
+### PyCharm ###
+.idea/
+
+### Python ###
+**/__pycache__/
+
+### Datasets ###
+datasets/
+
+### Models ###
+models/
+
+### Experiments Dir ###
+experiments/
+
+### Jupyter Notebooks ###
+jupyter-notebooks/.ipynb_checkpoints/
+
+### Thesis ###
+thesis/*
+!thesis/thesis.pdf
+!thesis/img/
+
+### Slides ###
+slides/*
+!slides/*.pdf
+!slides/images/
+
+### Abstract ###
+abstract/*
